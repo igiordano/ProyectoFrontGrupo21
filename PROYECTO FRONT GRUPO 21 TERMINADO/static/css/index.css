@@ -1,0 +1,48 @@
+
+.contenedor{
+    max-width: 100%;
+    max-height: 600px;
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    max-width: 100%;
+    max-height: 50%;
+    height: auto;
+    border-radius: 20px;
+
+}   
+
+.elemento{  
+    font-family: "Lilita One", sans-serif;
+    color: rgb(245, 5, 5);
+    font-weight: bold;
+    font-size: 3vw;
+    border: 5px;
+    padding: 10px;
+    
+
+}
+.section{
+    text-align: center;
+
+
+
+}
+.enunciado{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 5vw;
+    color: rgb(101, 235, 190);
+}
+.fondo{
+    background-image: url(../img/college-girls-studying-together.jpg);
+    background-size: cover;;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    border-radius: 20px;
+}
+.lista{
+    display:inline-flex;
+    justify-content: center;
+}
